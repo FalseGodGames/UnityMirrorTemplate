@@ -1,1 +1,1 @@
-# CarRace
+# Unity Mirror Template
